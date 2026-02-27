@@ -53,7 +53,7 @@ Build Tool	Maven
 
 ## Getting Started
 1. **Clone the Repository:**
-`git clone https://github.com/yalamandap/expenses-tracker.git`
+git clone https://github.com/sahithya-lakku/ExpenseTracker.git
 
 2. **Configure Database:**
 Set up MySQL database and update the application.properties file with your database configuration.
